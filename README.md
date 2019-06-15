@@ -30,3 +30,4 @@ Script will download and execute a function that will retrieve all the words in 
 
 The script will also return top 30 keywords based on their scores
 
+The complete list of words and it's score is also available as as a JSON export in the project folder
