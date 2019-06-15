@@ -8,7 +8,8 @@ A Keyword generator and ranking application for any choosen urls.
 Written By Mohamed Shafi, (http://shafis.in)
 
 Usage:  Fill 'sites.scrape' file with urls. (seperate by ,)
-        $ python bruterankkeywords.py
+
+$ python bruterankkeywords.py
 
 Version : python 3.7.3 (tested)
 
