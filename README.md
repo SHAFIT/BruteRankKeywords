@@ -10,7 +10,8 @@ Written By Mohamed Shafi, (http://shafis.in)
 Usage:  Fill 'sites.scrape' file with urls. (seperate by ,)
         $ python bruterankkeywords.py
 
-Vesrion:python 3.7.3 (tested)
+Version : python 3.7.3 (tested)
+
 ===============================================================================
 
 A python based keywords generator for web-pages.
